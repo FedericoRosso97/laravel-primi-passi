@@ -7,5 +7,11 @@
 </head>
 <body>
     <p>hello world</p>
+    <p>
+        {{$nome}}
+    </p>
+    <p>
+        {{$cognome}}
+    </p>
 </body>
 </html>
